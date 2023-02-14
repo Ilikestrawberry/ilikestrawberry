@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D1BB54&title_bg=%23DDD831&icon=micro-dot-blog.svg&icon_color=%23989796&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--
 **Ilikestrawberry/ilikestrawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
