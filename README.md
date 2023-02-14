@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1204jh)](https://solved.ac/1204jh/)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=Ilikestrawberry)](https://solved.ac/1204jh)
 
 ![Python](https://img.shields.io/badge/Python⭐⭐⭐-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL⭐⭐-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
@@ -26,7 +27,8 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com)
 
 
-[![Today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BAA229&title_bg=%23DDD831&icon=micro-dot-blog.svg&icon_color=%23989796&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIlikestrawberry&count_bg=%23BAA229&title_bg=%23DDD831&icon=micro-dot-blog.svg&icon_color=%23989796&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <!--
 **Ilikestrawberry/ilikestrawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
