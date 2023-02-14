@@ -1,12 +1,13 @@
 ## Hi there 👋
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=Ilikestrawberry)](https://solved.ac/1204jh)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=1204jh)](https://solved.ac/1204jh)
 
+### 📝 Language
 ![Python](https://img.shields.io/badge/Python⭐⭐⭐-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL⭐⭐-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-
+### 📚 Libraries
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFBE00.svg?&style=for-the-badge)
@@ -16,13 +17,13 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights&Biases-FFBE00.svg?&style=for-the-badge&logo=WeightsandBiases&logoColor=white)
 
-
+### 🧰 Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
-## :mailbox_with_mail: Contact
+## 📮 Contact
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jh921204@naver.com)](mailto:rlatngus1691@naver.com)
 
 
