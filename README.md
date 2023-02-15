@@ -1,33 +1,46 @@
-## Hi there 👋
+<div align=center></div>
+  
+### 📊 Data Analyst, Quant, ML Modeler
+- Financial Data Analyst, Machine Learning Modeler
+
+### 👀 Interest
+- Financial Data Analysis, Trading Algorithm Development
+- Natural Language Processing Modeling
+- Data Visualization
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=1204jh)](https://solved.ac/1204jh)
+
+
+---
 
 ### 📝 Language
-![Python](https://img.shields.io/badge/Python⭐⭐⭐-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL⭐⭐-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python⭐⭐⭐-3776AB.svg?&style=flat&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL⭐⭐-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 
 ### 📚 Libraries
-![Numpy](https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFBE00.svg?&style=for-the-badge)
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
-  
-![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5.svg?&style=for-the-badge&logo=PyTorch%20Lightning&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights&Biases-FFBE00.svg?&style=for-the-badge&logo=WeightsandBiases&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243.svg?&style=flat&logo=Numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=flat&logo=pandas&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5.svg?&style=flat&logo=PyTorch%20Lightning&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat&logo=Pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat&logo=Tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFBE00.svg?&style=flat)
+![Weights & Biases](https://img.shields.io/badge/Weights&Biases-FFBE00.svg?&style=flat&logo=WeightsandBiases&logoColor=white)
 
 ### 🧰 Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 
+---
 
-## 📮 Contact
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jh921204@naver.com)](mailto:rlatngus1691@naver.com)
+### 📮 Contact
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jh921204@naver.com)](mailto:jh921204@naver.com)
 
+---
 
 [![Today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIlikestrawberry&count_bg=%23BAA229&title_bg=%23DDD831&icon=micro-dot-blog.svg&icon_color=%23989796&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 
 <!--
