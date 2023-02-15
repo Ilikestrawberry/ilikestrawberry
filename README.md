@@ -13,11 +13,11 @@
 
 ---
 
-### 📝 Language
+#### 📝 Language
 ![Python](https://img.shields.io/badge/Python⭐⭐⭐-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL⭐⭐-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 
-### 📚 Libraries
+#### 📚 Libraries
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?&style=flat&logo=Numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=flat&logo=pandas&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5.svg?&style=flat&logo=PyTorch%20Lightning&logoColor=white)
@@ -26,15 +26,10 @@
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFBE00.svg?&style=flat)
 ![Weights & Biases](https://img.shields.io/badge/Weights&Biases-FFBE00.svg?&style=flat&logo=WeightsandBiases&logoColor=white)
 
-### 🧰 Tools
+#### 🧰 Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
-
----
-
-### 📮 Contact
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jh921204@naver.com)](mailto:jh921204@naver.com)
 
 ---
 
