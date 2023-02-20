@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=3&height=150&section=header&text=Hello&desc=I'm%20Jihoon&fontSize=50&rotate=10&fontAlignY=20&fontAlign=85&descAlignY=45&descAlign=90&)
 
 ### 📊 Data Analyst, Quant, ML Modeler
-- Financial Data Analyst, Machine Learning Modeler
+- Financial Data Analyst, Quant Researcher, Machine Learning Modeler
 
 ### 👀 Interest
 - Financial Data Analysis, Trading Algorithm Development
