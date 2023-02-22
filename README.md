@@ -28,7 +28,6 @@
 
 #### 🧰 Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 
 ---
