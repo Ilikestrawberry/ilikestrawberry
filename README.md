@@ -15,6 +15,7 @@
 
 #### 📝 Language
 ![Python](https://img.shields.io/badge/Python⭐⭐⭐-3776AB.svg?&style=flat&logo=Python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js⭐⭐-339933.svg?&style=flat&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL⭐⭐-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 
 #### 📚 Libraries
